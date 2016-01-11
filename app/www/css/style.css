@@ -4,3 +4,7 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+.background {
+  background: url('../img/background.png') no-repeat center center fixed;
+  background-size: cover;
+}
